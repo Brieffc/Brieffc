@@ -1,4 +1,4 @@
-### Olá, Eu sou o Alisson Lopes!👨‍💻
+### HEY! Eu sou o Alisson Lopes!👨‍💻
 
 - 🔭 I'm currently developing projects with JavaScript/HTML/CSS
 - 🌱 I'm currently studying TypeScript/React/Node.js
