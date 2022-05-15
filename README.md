@@ -4,8 +4,8 @@
 - 🌱 I'm currently studying TypeScript/React/Node.js
 - 📫 How to reach me: alisson.dev@hotmail.com
 -->
- <div>  <img align="right" alt="Brieffc-TypeScript" height="220" widht="80" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif"></div> 
- 
+
+<div>  <img align="right" alt="Brieffc-TypeScript" height="220" widht="80" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif"></div>  
 ##
 <div>
   <a href="https://github.com/brieffc">
