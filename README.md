@@ -5,13 +5,15 @@
 - 📫 How to reach me: alisson.dev@hotmail.com
 - ⚡ Fun fact: I also make sushi in my spare time🥢🍣
 -->
+ <div>  <img align="center" alt="Brieffc-TypeScript" height="300" widht="100" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif"></div> 
+ 
 ##
 <div>
   <a href="https://github.com/brieffc">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brieffc&theme=blue-green&show_icons=true">
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brieffc&theme=blue-green&show_icons=true">
    </div>
-  
+ 
   <div style="display: inline_block"><br>
 <img align="center" alt="Brieffc-Css" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img align="center" alt="Brieffc-Html" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">   
@@ -24,7 +26,7 @@
 <img align="center" alt="Brieffc-React" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 <img align="center" alt="Brieffc-TypeScript" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
 </div>
-          
+      
   ##
   <div style="display: inline_block"><br>
     <a href="https://discord.gg/Cr3mV5Qv" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
@@ -32,7 +34,7 @@
     <a href="https://steamcommunity.com/profiles/76561198116789601/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
     <a href="https://www.freecodecamp.org/portuguese/fcce7c6e485-e748-4182-874a-d1ac639c4459" target="_blank"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"></a>
      </div>    
-          
+        
 ##
   
           
