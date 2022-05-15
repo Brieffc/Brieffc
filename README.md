@@ -3,9 +3,8 @@
 - 🔭 I'm currently developing projects with JavaScript/HTML/CSS
 - 🌱 I'm currently studying TypeScript/React/Node.js
 - 📫 How to reach me: alisson.dev@hotmail.com
-- ⚡ Fun fact: I also make sushi in my spare time🥢🍣
 -->
- <div>  <img align="center" alt="Brieffc-TypeScript" height="300" widht="100" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif"></div> 
+ <div>  <img align="right" alt="Brieffc-TypeScript" height="250" widht="100" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif"></div> 
  
 ##
 <div>
