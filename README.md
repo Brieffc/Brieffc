@@ -6,7 +6,9 @@
 -->
 
 <div>  <img align="right" alt="Brieffc-TypeScript" height="220" widht="80" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif"></div>  
+
 ##
+
 <div>
   <a href="https://github.com/brieffc">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brieffc&theme=blue-green&show_icons=true">
