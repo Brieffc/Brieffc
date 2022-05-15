@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently developing projects with JavaScript/HTML/CSS
 - 🌱 I'm currently studying TypeScript/React/Node.js/Web3.0
-- 📫 How to reach me: alisson.dev@hotmail.com
+- 📫 How to reach me: alisson.dev@hotmail.com , www.linkedin.com/in/alisson-lopes-dev/                     
 -->
 
 <div>  <img align="right" alt="Brieffc-TypeScript" height="220" widht="80" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif"></div>  
