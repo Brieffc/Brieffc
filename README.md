@@ -5,7 +5,7 @@
 - 📫 How to reach me: alisson.dev@hotmail.com , www.linkedin.com/in/alisson-lopes-dev/                     
 -->
 
-<div>  <img align="right" alt="Brieffc-TypeScript" height="220" widht="80" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif"></div>  
+<div>  <img align="right" alt="Brieffc-TypeScript" height="300" widht="200" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif"></div>  
 
 ##
 
