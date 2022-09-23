@@ -1,9 +1,4 @@
-### HEY! I'am Alisson Lopes!👨‍💻
 
-- 🔭 I'm currently developing projects with JavaScript/HTML/CSS
-- 🌱 I'm currently studying React/Node.js/Web3.0
-- 📫 How to reach me: alisson.dev@hotmail.com , www.linkedin.com/in/alisson-lopes-dev/                     
--->
 
 <div>  <img align="right" alt="Brieffc-TypeScript" height="250" widht="400" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif"></div>  
 
