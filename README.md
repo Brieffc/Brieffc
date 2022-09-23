@@ -1,7 +1,7 @@
 ### HEY! I'am Alisson Lopes!👨‍💻
 
 - 🔭 I'm currently developing projects with JavaScript/HTML/CSS
-- 🌱 I'm currently studying TypeScript/React/Node.js/Web3.0
+- 🌱 I'm currently studying React/Node.js/Web3.0
 - 📫 How to reach me: alisson.dev@hotmail.com , www.linkedin.com/in/alisson-lopes-dev/                     
 -->
 
